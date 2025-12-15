@@ -7,4 +7,4 @@ Load and preprocess CIFAR-10 data
 Implement two models: Plain CNN and ResNet
 Train both models under similar conditions
 Plot and compare training/test accuracy and loss curves
-Discuss observations and the importance of residual connections
+Discuss observations and the importance of residual connections.
